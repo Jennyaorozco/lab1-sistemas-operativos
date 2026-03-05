@@ -5,10 +5,8 @@
 
 ## 1. Integrantes
 
-| Nombre completo | Correo | Documento |
-|---|---|---|
-| _Nombre Integrante 1_ | _correo@udea.edu.co_ | _CC xxxxxxxxxx_ |
-| _Nombre Integrante 2_ | _correo@udea.edu.co_ | _CC xxxxxxxxxx_ |
+| Jenny Andrea Orozco Osorio| Jennya.orozco@udea.edu.co| CC.43.918.288 |
+| David Julián Penagos Arroyave | julian.penagos@udea.edu.co | CC.1.037.610.202 |
 
 ---
 
@@ -153,15 +151,15 @@ wc -c test.txt test.z
 
 ## 7. Manifiesto de transparencia (IA generativa)
 
-Se utilizó IA generativa (Claude) para:
+Se utilizó IA generativa (Chatgpt) para:
 - Generación inicial del código fuente de los cuatro programas.
 - Identificación del problema de múltiples archivos en `wzip` y la solución con estado compartido.
 - Redacción de este README.
 
-Todo el código fue revisado, compilado y probado manualmente. Los estudiantes comprenden el funcionamiento de cada función y son responsables de los resultados.
+Todo el código fue revisado, compilado y probado manualmente. Comprendimos el funcionamiento de cada función y somos responsables de los resultados.
 
 ---
 
 ## 8. Video de sustentación
 
-> Enlace: _[pendiente — agregar URL del video de 10 minutos aquí]_
+> Enlace: 
