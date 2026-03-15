@@ -163,3 +163,4 @@ Todo el código fue revisado, compilado y probado manualmente. Comprendimos el f
 ## 8. Video de sustentación
 
 > Enlace: 
+https://drive.google.com/file/d/1-IDMaKArHr2tjJWXIvXGYqaXL2MbMg-p/view?usp=sharing
